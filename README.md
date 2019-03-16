@@ -1,2 +1,2 @@
-# recursivefiletree
-Visual File Tree in Bash
+# Recursive File Tree
+Visual File Tree created in Bash
